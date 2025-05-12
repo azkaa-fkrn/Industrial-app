@@ -1,0 +1,7 @@
+{
+  "name": "industrial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
